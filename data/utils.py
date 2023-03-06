@@ -2,6 +2,10 @@ import numpy as np
 from pathlib import Path
 import PIL.Image as pilimg
 
+"""
+It's a temp file for functions that I am not sure where to put.
+"""
+
 TaskNotFoundError = Exception(
     "Task that you provided is not valid."
 )
